@@ -1,4 +1,9 @@
-## Hi there 👋
+## ✨东方算法骑士团✨
+I'm student majoring in Computer Science.
+just a freshman in coding and programming.
+hoping we can be friends!
+
+
 
 <!--
 **Hypertension42/Hypertension42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
