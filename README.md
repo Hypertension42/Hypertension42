@@ -1,7 +1,7 @@
-## ✨东方算法骑士团✨
-I'm student majoring in Computer Science.
-just a freshman in coding and programming.
-hoping we can be friends!
+## ✨东方算法骑土团✨
+A freshman in coding.
+Exploring the programming world.
+
 
 
 
